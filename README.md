@@ -1,5 +1,5 @@
 # WALB - AWS 보안 인프라 자동화 & 통합 모니터링 플랫폼
-## 25-07-18 현대오토에버 모빌리티 SW스쿨 - IT보안 2기 : 2차 팀프로젝트
+## 25-07-18 현대오토에버 2차 팀프로젝트
 ![Python](https://img.shields.io/badge/Python-3.9.0-blue?style=flat-square&logo=python)
 ![Terraform](https://img.shields.io/badge/Terraform-1.5+-purple?style=flat-square&logo=terraform)
 ![Flask](https://img.shields.io/badge/Flask-2.3.3-green?style=flat-square&logo=flask)
